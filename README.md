@@ -3,6 +3,7 @@ Here's to the new readme of the project!
 ==========================
   WHAT HAS BEEN FIXED:
 ==========================
+
 • Fixed broken links and implemented proper linking from the nav bar to the correct page element.
 
 • Implemented alt text to each and every image on the page
@@ -17,4 +18,6 @@ Here's to the new readme of the project!
 
 • Implemented a proper tab title
 
-[My image](username.github.com/repository/img/image.jpg)
+=============================================
+
+[Page Screenshot](https://github.com/Relten98/Relten98.github.io/blob/main/horiseon_screenshot.png)
