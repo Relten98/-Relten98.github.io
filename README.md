@@ -1,8 +1,8 @@
 Here's to the new readme of the project!
 
-==========================
+
   WHAT HAS BEEN FIXED:
-==========================
+
 
 • Fixed broken links and implemented proper linking from the nav bar to the correct page element.
 
