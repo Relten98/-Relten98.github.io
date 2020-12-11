@@ -20,6 +20,6 @@ Here's to the new readme of the project!
 
 =============================================
 
-[Page Screenshot]( https://github.com/Relten98/Relten98.github.io/blob/main/horiseon_screenshot.png )
+![Page Screenshot]( https://github.com/Relten98/Relten98.github.io/blob/main/horiseon_screenshot.png )
 
 [Deployed Web page]( https://relten98.github.io/ )
